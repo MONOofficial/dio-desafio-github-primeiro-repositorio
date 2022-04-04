@@ -14,6 +14,8 @@ Repositório criado para o Desafio de Projeto.
 
 [Adicionar imagem ao repositório](https://www.youtube.com/watch?v=oMFiGEZ6UlQ)
 
+[Exemplo de Repositório da Káka](https://raw.githubusercontent.com/kakacordovil/kakacordovil/main/README.md)
+
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/102203391/161641730-c6b9a592-a579-4986-87b6-c274b33ff2b2.png" width="300px" />
