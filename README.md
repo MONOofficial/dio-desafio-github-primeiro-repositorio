@@ -12,5 +12,4 @@ Repositório criado para o Desafio de Projeto.
 
 [!Comandos do Git!](https://comandosgit.github.io/)
 
-![alt text](![image](https://user-images.githubusercontent.com/102203391/161641437-ab6869a3-869c-4f40-b24f-b0d72a003775.png)
-)
+![Octocat (1)](https://user-images.githubusercontent.com/102203391/161641730-c6b9a592-a579-4986-87b6-c274b33ff2b2.png)
